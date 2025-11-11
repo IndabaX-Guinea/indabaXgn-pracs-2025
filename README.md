@@ -2,6 +2,8 @@
 
 Welcome to the Deep Learning IndabaX Guinea 2025 practical sessions! This repository contains hands-on exercises designed to introduce participants to fundamental and advanced concepts in deep learning.
 
+> **🚀 Quick Start:** New here? Check out the [QUICKSTART.md](QUICKSTART.md) guide to get up and running in 5 minutes!
+
 ## 📚 Overview
 
 This repository contains a series of practical exercises covering:
