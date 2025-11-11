@@ -1,0 +1,16 @@
+# Environnements Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# VS Code
+.vscode/
