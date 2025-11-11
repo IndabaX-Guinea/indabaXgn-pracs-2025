@@ -33,4 +33,4 @@ source .venv/bin/activate  # fish : source .venv/bin/activate.fish
 
 ## Contact
 
-Besoin d’aide ? Ouvrez une issue ou écrivez à `organisers@indabaxgn.org`.
+Besoin d’aide ? Ouvrez une issue ou écrivez à `contact@indabaxguinee.org`.
