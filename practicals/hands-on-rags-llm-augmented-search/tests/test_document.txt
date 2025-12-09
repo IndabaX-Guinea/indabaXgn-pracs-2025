@@ -1,0 +1,13 @@
+This is a simple test document for the IndabaX RAG demo.
+
+It contains some basic information about machine learning and AI.
+
+Machine learning is a subset of artificial intelligence that enables computers to learn without being explicitly programmed.
+
+Key concepts include:
+- Supervised learning
+- Unsupervised learning
+- Deep learning
+- Neural networks
+
+This document is used to test the RAG system's ability to process and retrieve information.

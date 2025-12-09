@@ -1,0 +1,22 @@
+# PDF Processing
+docling>=1.0.0
+
+# Vector Database
+psycopg[binary]>=3.1.0
+pgvector
+
+# Embeddings & ML
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# LLM
+openai>=1.0.0
+
+# Conversation History
+redis>=5.0.0
+
+# CLI
+click>=8.1.0
+
+# Utilities
+numpy>=1.24.0
