@@ -4,10 +4,10 @@
 
 ### Project Structure
 ```
-demo-indabaX/
+hands-on-rags-llm-augmented-search/
 ├── pyproject.toml              # uv + ruff config (ready!)
 ├── .env.example                # Environment variables template
-├── src/demo-indabaX/
+├── src/demo_indabax/
 │   ├── __init__.py
 │   ├── document_processor.py  # Docling PDF extraction
 │   ├── embeddings.py           # Sentence transformers
@@ -51,7 +51,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### 2. Create environment and install dependencies
 ```bash
-cd /Users/ahmedbalde/projects/00000/demo-indabaX
+cd hands-on-rags-llm-augmented-search
 
 # Create uv environment named "indabaX"
 uv venv --python 3.10 .venv

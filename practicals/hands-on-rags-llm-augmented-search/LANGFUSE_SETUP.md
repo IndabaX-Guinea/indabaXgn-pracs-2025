@@ -34,7 +34,7 @@ LANGFUSE_HOST=https://cloud.langfuse.com
 ### 3. Test the Integration
 
 ```bash
-cd /Users/ahmedbalde/projects/00000/demo-indabaX
+cd hands-on-rags-llm-augmented-search
 source .venv/bin/activate
 
 # Run a test query

@@ -14,7 +14,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ### 2. Clone and setup environment
 ```bash
-cd /Users/ahmedbalde/projects/00000/demo-indabaX
+cd hands-on-rags-llm-augmented-search
 
 # Create virtual environment
 uv venv --python 3.10 .venv
@@ -159,7 +159,7 @@ Redis is optional - the app will work without it (no conversation history).
 ## Project Structure
 
 ```
-demo-indabaX/
+hands-on-rags-llm-augmented-search/
 ├── docker-compose.yml         # PostgreSQL + Redis
 ├── .env                       # Your API keys
 ├── pyproject.toml             # Dependencies
